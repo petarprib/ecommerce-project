@@ -1,0 +1,52 @@
+.navbar {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.menu a {
+    color: #C0C0C0;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: #708090;
+    transition: 0.5s ease all;
+}
+
+.logo {
+    font-size: 2.2em;
+    margin-left: 30%;
+    color: red;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+.menu li {
+    justify-self: center;
+}
+
+.fa-shopping-cart, .fa-sign-out-alt {
+    color: white;
+}
+
+.fa-shopping-cart:hover, .fa-sign-out-alt:hover {
+    color: #C0C0C0;
+    transition: 0.5s ease all;
+}
+
+.cartandlogout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

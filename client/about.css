@@ -1,0 +1,30 @@
+.hq {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2%;
+    margin: 15px 4% 50px 4%;
+}
+
+.hqimg {
+    max-width: 100%;
+}
+
+.warehouse {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2%;
+    margin: 30px 4%;
+}
+
+.warehouseimg {
+    max-width: 100%;
+}
+
+.lorem {
+    display: flex;
+    align-items: center;
+}
+
+.lorem > p {
+    font-size: 1.1em;
+}

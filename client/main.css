@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.title {
+    font-size: 2em;
+    margin: 20px 5%;
+}
+
+li {
+  list-style: none;
+}
+
+textarea {
+  height: 200px;
+  width: 100%;
+  padding: 0.2em;
+  border: 1.5px solid #ccc;
+  border-radius: 4px;
+  font-size: 1em;
+  resize: none;
+}
+
+.requiredstars {
+  color: red;
+}

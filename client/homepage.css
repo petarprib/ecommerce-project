@@ -1,0 +1,30 @@
+.homepage {
+    background-image: url("https://res.cloudinary.com/dluulezqo/image/upload/v1530616207/Webapp/homepagecover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.cover {
+    background: rgb(60, 60, 60);
+    background: rgba(60, 60, 60, 0.4);
+    height: 100vh;
+}
+
+.homepage h1 {
+    color: white;
+    padding-top: 18%;
+}
+
+.homepage button {
+    font-size: 1.2em;
+    border: none;
+    color: white;
+    padding: 8px 20px; 
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 10px 0;
+    min-width: 200px;
+    background-color: red;
+}

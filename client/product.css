@@ -1,0 +1,50 @@
+.onearticle {
+    margin: 30px 4%;
+    display: grid;
+    grid-template-columns: 4fr 3fr 2fr;
+    grid-gap: 2%;
+}
+
+.onearticleimg {
+    width: 100%;
+}
+
+.onearticledetails {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.onearticlename {
+    font-size: 1.4em;
+    font-weight: 700;
+}
+
+.onearticledescription{
+    font-size: 1.2em;
+}
+
+.oneprice {
+    font-size: 1.4em;
+    font-weight: 700;
+}
+
+.vat {
+    font-size: 0.7em;
+}
+
+.onebutton {
+    background-color: #FF0000;
+    font-size: 1.2em;
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+.nav {
+    background: black !important;
+}

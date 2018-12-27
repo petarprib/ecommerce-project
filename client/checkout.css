@@ -1,0 +1,32 @@
+.checkoutpage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px 4% 50px 4%;
+    grid-gap: 4%;
+}
+
+.checkoutgrids {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2%;
+}
+
+.yourorder {
+    background-color: black;
+    color: white;
+}
+
+.checkouttotal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #C0C0C0;
+}
+
+.checkouttotalbold {
+    font-weight: bold;
+}
+
+.checkoutsummary p {
+    font-size: 1.5em;
+    padding: 0.3em 0.5em;
+}

@@ -1,0 +1,31 @@
+.adminloginsquare {
+    background-color: #DCDCDC;
+    width: 40%;
+    margin: 5% auto;
+    padding: 10% 10%;
+    border-radius: 5px;
+}
+
+.admindetails {
+    padding-bottom: 2%;
+}
+
+.admininputs {
+    width: 100%;
+    border: 1.5px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    padding: 5px;
+}
+
+.adminbutton {
+    width: 100%;
+    background-color: green;
+    font-size: 1.2em;
+    border: none;
+    color: white;
+    padding: 10px 0;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 2px;
+}

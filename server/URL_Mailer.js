@@ -1,0 +1,1 @@
+export const  URL= "smtps://petar@barcelonacodeschool.com:Cybervamp0@smtp.gmail.com:465/"
