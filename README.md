@@ -1,5 +1,0 @@
-INSTALLATION FILE
-
-RUN PROJECT
-
-meteor --port $IP:$PORT
